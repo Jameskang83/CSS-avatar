@@ -80,7 +80,7 @@ main {
   grid-column: 2 / 3;
   grid-row: 1 / 5;
   opacity: 0.8;
-  background-image: url("/img/james.jpg");
+  background-image: url("img/james.jpg");
   background-size: cover;
   border: 2px solid var(--color-water);
   cursor: pointer; }
